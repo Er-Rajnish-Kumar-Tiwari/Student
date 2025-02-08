@@ -127,7 +127,7 @@ function Tanishstudent() {
                     className='form-control'
                     placeholder='Enter Name, Number, or E-mail'
                     style={{
-                        width: '40%', marginLeft: '500px', marginTop: '15px',
+                        width: '40%', marginLeft: '300px', marginTop: '15px',
                         height: '50px', textAlign: 'center', borderRadius: '20px'
                     }}
                     value={searchQuery}  
