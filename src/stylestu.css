@@ -1,0 +1,47 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%);
+}
+
+form{
+  display:inline-block;
+  padding-left: 600px;
+  width: 65%;
+  padding-top: 20px;
+}
+
+form input{
+  display: inline-table;
+  padding-right: 20px;
+  text-align: left;
+  border: 2px brown solid;
+}
+label{
+  margin: 10px;
+}
+
+
+h1{
+  text-align: center;
+  padding-top: 40px;
+  padding-left: 30px;
+  color: maroon;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 40px;
+}
+
+button{
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+#s1{
+  margin-left: 160px;
+  margin-bottom: 50px;
+}
+
+.sr{
+  display: flex;
+}
+
+
